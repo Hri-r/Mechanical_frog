@@ -4,4 +4,4 @@ Timeline : https://docs.google.com/spreadsheets/d/1T1-bGy4CQLsI9VscBFVxL2-vlmkVg
 
 ## Preliminary Mechanism
 
-https://github.com/Hri-r/Mechanical_frog/raw/refs/heads/main/frogMechanism1.mp4
+frogMechanism1.mp4
